@@ -1,6 +1,7 @@
-from fastapi import FastAPI
 import uvicorn
+
 from client import Client
+from fastapi import FastAPI
 
 app = FastAPI()
 client = Client()
