@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 
+
 class NasaApiConfig:
     """
     loads and stores NASA Api configs
