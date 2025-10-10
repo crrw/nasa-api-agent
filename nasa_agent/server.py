@@ -5,7 +5,7 @@ mcp = FastMCP("Nasa Service")
 client = Client()
 
 '''
-TODO: fill out this file with actual code
+This class serves as a 'hello world' test
 '''
 
 @mcp.tool()
