@@ -22,3 +22,6 @@ def resource():
 def prompt():
   """Create a picture of the day prompt"""
   return "What is the picture for today?"
+
+if __name__ == '__main__':
+    mcp.run()
